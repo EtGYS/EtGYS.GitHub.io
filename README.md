@@ -2,11 +2,19 @@
 
 Eternalglory Minecraft Server HomePage.<br>
 
-永恒光辉 | Eternalglory 新版官网 [LINKS](https://etntl.top)<br>
+永恒光辉 | Eternalglory 新版官网
 
 ### maintainer 开发人员名单
 
 此官网现在由 [L](https://github.com/ze8611) and [Tian_Tempest](https://github.com/Mint-xiaotian) 维护<br>
+
+### Froum
+- [X] Add Froum
+- [X] Add Froum Tages
+- [X] Add Froum Tages Eternalglory 
+- [X] Add Froum Tages SIR
+- [X] Add Froum Tages Industrial field
+*Start Date 2023/7/10*  
 
 ### license:
 
