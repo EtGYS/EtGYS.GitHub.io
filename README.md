@@ -8,6 +8,9 @@ Eternalglory Minecraft Server HomePage.<br>
 
 此官网现在由 [L](https://github.com/ze8611) and [Tian_Tempest](https://github.com/Mint-xiaotian) 维护<br>
 
+*由@Miat-Xiaotian提供背景*
+*由@zcns编写此官网*
+
 ### Froum
 - [X] Add Froum
 - [X] Add Froum Tages
