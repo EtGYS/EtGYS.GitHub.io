@@ -7,9 +7,20 @@ Eternalglory Minecraft Server HomePage.<br>
 ### maintainer 开发人员名单
 
 此官网现在由 [L](https://github.com/ze8611) and [Tian_Tempest](https://github.com/Mint-xiaotian) 维护<br>
-
-*由@Miat-Xiaotian提供背景*
-*由@zcns编写此官网*
+目录树:<br>
+```
+Tree:
+index.html
+CNAME
+LICENSE
+README.md
+css/
+fonts/
+images/
+js/
+picture/
+```
+*TIPS: 文件夹目前没有生成目录树!*
 
 ### Froum
 - [X] Add Froum
