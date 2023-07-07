@@ -9,9 +9,9 @@ Eternalglory Minecraft Server HomePage.<br>
 此官网现在由 [L](https://github.com/ze8611) and [Tian_Tempest](https://github.com/Mint-xiaotian) 维护<br>
 
 #### 鸣谢成员
-[L](https://github.com/ze8611)<br>
+[L](https://github.com/ze8611) ``Git-ID``:``ze8611``<br>
 
-[Tian_Tempest](https://github.com/Mint-xiaotian)<br>
+[Tian_Tempest](https://github.com/Mint-xiaotian) ``Git-ID``:``Mint-xiaotian``<br>
 
 ### Downloads Pages
 [#Repo](https://github.com/EtGYS/Downloads)
